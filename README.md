@@ -1,1 +1,2 @@
-# store
+My friend and I have built a store together, although we still need to complete it. When you run it, it first brings up a page for entering a password and username. Once you enter these, you will be taken to the profile page. The phone number you enter must include +98. Then you will enter the store, which has four buttons: User Information, View Products, Sort Products, and Chat with Support. There is also a panel for accessing the shopping cart, but only three of the buttons work. :)))
+
